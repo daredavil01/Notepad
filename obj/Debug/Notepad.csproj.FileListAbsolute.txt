@@ -1,0 +1,13 @@
+C:\Users\Sanket's PC\source\repos\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\Sanket's PC\source\repos\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\Sanket's PC\source\repos\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\Users\Sanket's PC\source\repos\Notepad\Notepad\obj\Debug\Notepad.about.resources
+C:\Users\Sanket's PC\source\repos\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+C:\Users\Sanket's PC\source\repos\Notepad\Notepad\obj\Debug\Notepad.Form2.resources
+C:\Users\Sanket's PC\source\repos\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\Sanket's PC\source\repos\Notepad\Notepad\obj\Debug\Notepad.replace.resources
+C:\Users\Sanket's PC\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\Sanket's PC\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Sanket's PC\source\repos\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Sanket's PC\source\repos\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\Sanket's PC\source\repos\Notepad\Notepad\bin\Debug\Notepad.pdb
